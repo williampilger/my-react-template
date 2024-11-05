@@ -1,0 +1,9 @@
+{
+  "short_name": "ClrApp",
+  "name": "William's React Clear Project",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
